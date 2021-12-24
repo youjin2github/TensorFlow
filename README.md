@@ -18,5 +18,6 @@ Python, Tensorflow, Keras, Pandas, Numpy, sklearn, pyupbit 등
 4. ✔TensroFlow Dataset을 활용한 시퀀스 데이터셋 구성
 5. 😆모델
 6. 👀예측 데이터 시각화
+![예측데이터시각화](https://user-images.githubusercontent.com/86221508/147328004-38b88183-e4a5-4f9b-aa9a-2ba35aca4fee.PNG)
 
 ### 결론 : 로또를 사는게... 좋겠따!
