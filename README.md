@@ -13,10 +13,10 @@ Python, Tensorflow, Keras, Pandas, Numpy, sklearn, pyupbit 등
 1. 💾[데이터 수집] (https://github.com/youjin2github/autotrade)
     * 구글 colab에서 작업을 진행하게 되어 업비트에서 1일봉 365일 데이터를 가져왔다. 데이터를 먼저 엑셀로 저장하고 colab에서 불러오는 방식으로 진행했다(위에 링크를 참조!)
    
-2. 🧩[데이터 전처리]
+2. 🧩데이터 전처리
     * 데이터에 대하여 딥러닝 모델이 더 잘 학습할 수 있도록 정규화(Normalization)를 진행
 
-3. 💡 [ test / train ] 분할
+3. 💡test / train 분할
 
 4. ✔TensroFlow Dataset을 활용한 시퀀스 데이터셋 구성
 
