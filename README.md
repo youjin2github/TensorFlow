@@ -4,7 +4,7 @@
 Bitcoin을 대상으로 하여 딥러닝(Deep Learning) 가상화폐의 가격을 예측해보자
 
 ## ✍️ Projects
-2021.12 ~진행중
+2021.12
 
 ## 활용 환경 & 라이브러리
 Python, Tensorflow, Keras, Pandas, Numpy, sklearn, pyupbit 등 
