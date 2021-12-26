@@ -26,4 +26,4 @@ Python, Tensorflow, Keras, Pandas, Numpy, sklearn, pyupbit 등
 
 ![예측데이터시각화](https://user-images.githubusercontent.com/86221508/147328004-38b88183-e4a5-4f9b-aa9a-2ba35aca4fee.PNG)
 
-### 결론 : 로또를 사는게... 좋겠따!
+
