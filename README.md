@@ -21,6 +21,7 @@ Python, Tensorflow, Keras, Pandas, Numpy, sklearn, pyupbit 등
 4. ✔TensroFlow Dataset을 활용한 시퀀스 데이터셋 구성
 
 5. 😆모델
+시계열에서 가장 효과가 좋은 LSTM모형을 활용
 
 6. 👀예측 데이터 시각화
 
